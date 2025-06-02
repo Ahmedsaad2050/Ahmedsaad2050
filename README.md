@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ahmedsaad2050
-- 👀 I’m interested in Testing Automation
+- 👋 Hi, I’m Ahmed
+- 👀 I’m interested in Testing Automation and I have great experience in BE, FE, & Mobile Automation testing.
 - 🌱 I’m currently learning Cloud with Testing Automation
 - 💞️ I’m looking to collaborate on Different Projects to share my expertise and to learn new technologies
 - 📫 How to reach me via email : Ahmedsaad2050@gmail.com
