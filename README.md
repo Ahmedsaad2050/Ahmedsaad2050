@@ -1,6 +1,6 @@
 ## Ahmed Elatawy
 
-I'm a QA automation engineer. These days mostly in AI/LLM validation — the part most teams skip.
+I'm a Snior QA automation engineer. These days mostly in AI/LLM validation: the part most teams skip.
 
 Running prompts is easy. Knowing if the model is actually ready to ship is not. I've been building tools for that gap: drift detection, A/B model comparison, quality gates that give release decisions something to stand on.
 
