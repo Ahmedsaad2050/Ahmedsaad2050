@@ -1,6 +1,6 @@
 ## Ahmed Elatawy
 
-I'm a Snior QA automation engineer. These days mostly in AI/LLM validation: the part most teams skip.
+I'm a QA automation engineer. These days mostly in AI/LLM validation — the part most teams skip.
 
 Running prompts is easy. Knowing if the model is actually ready to ship is not. I've been building tools for that gap: drift detection, A/B model comparison, quality gates that give release decisions something to stand on.
 
@@ -15,14 +15,13 @@ CI / Reporting — GitHub Actions · Docker · Allure
 
 ---
 
-### Projects
+### Currently building
 
-<a href="https://github.com/ahmedsaad2050/ai-validation-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsaad2050&repo=ai-validation-framework&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ahmedsaad2050/ai-release-passport">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedsaad2050&repo=ai-release-passport&theme=tokyonight&hide_border=true" />
-</a>
+**ai-validation-framework** — AI/LLM validation framework I've been building. Covers schema and rule checks, LLM-judge scoring (faithfulness, relevance, hallucination), A/B model comparison, drift detection, and an N-gate data pipeline that stops the line when a gate fails. Python and TypeScript, Gradio UI for the live demo.
+
+**ai-release-passport** — turns test evidence (promptfoo results, JSON, CSV, agent traces) into a release verdict your stakeholders can actually read: PASS, CONDITIONAL, or BLOCKED.
+
+Both private for now, pending review before public release.
 
 ---
 
